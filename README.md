@@ -104,18 +104,17 @@ aae4011_vehicle_detection/
 
 ## 6. Sample Results
 
-- **File selection:**
-- 
+ **File selection:**
 <img width="450" height="312" alt="Select_File" src="https://github.com/user-attachments/assets/0439b9d1-3cac-43e3-9416-1c462f156956" />
+A pop-up window for the user to select .bag files from Windows storage
 
-- **Image extraction summary:**
-- 
+ **Image extraction summary:**
 <img width="567" height="336" alt="Info" src="https://github.com/user-attachments/assets/9096566b-8896-4765-a263-8cce46a8372f" />
+A pop-up window to show the image count & properties. It also allows the user to choose whether to proceed or cancel.
 
-- **Video play & recognition:**
-- 
+ **Video play & recognition:**
 <img width="2559" height="1400" alt="Demo" src="https://github.com/user-attachments/assets/c0455261-4749-4532-9845-46992d0c7249" />
-
+A video player with UI. The user can adjust the confidence score threshold, adjust the play speed, pause, and jump to any time of the video.
  
 
 
