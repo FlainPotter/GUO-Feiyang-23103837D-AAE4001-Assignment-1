@@ -110,17 +110,19 @@ aae4011_vehicle_detection/
 
 A pop-up window for the user to select .bag files from Windows storage
 
+
  **Image extraction summary:**
  
 <img width="567" height="336" alt="Info" src="https://github.com/user-attachments/assets/9096566b-8896-4765-a263-8cce46a8372f" />
 
 A pop-up window to show the image count & properties. It also allows the user to choose whether to proceed or cancel.
 
+
  **Video play & recognition:**
  
 <img width="2559" height="1400" alt="Demo" src="https://github.com/user-attachments/assets/c0455261-4749-4532-9845-46992d0c7249" />
 
-A video player with UI. The user can adjust the confidence score threshold, adjust the play speed, pause, and jump to any time of the video.
+A video player with UI. The user can adjust the confidence score threshold, play speed, pause, and jump to any time in the video.
  
 
 
