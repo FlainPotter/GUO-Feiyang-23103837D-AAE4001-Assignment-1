@@ -1,0 +1,17 @@
+# ROS
+build/
+devel/
+*.pyc
+__pycache__/
+*.bag
+*.pcd
+extracted_*/
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+

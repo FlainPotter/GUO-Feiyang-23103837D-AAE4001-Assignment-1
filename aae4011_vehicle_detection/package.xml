@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>aae4011_vehicle_detection</name>
+  <version>0.1.0</version>
+  <description>
+    ROS-based vehicle detection pipeline for AAE4011 Assignment 1 Question 3.
+    Subscribes to camera images from rosbag, runs YOLO vehicle detection, and visualises results.
+  </description>
+
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <author email="your_email@example.com">Your Name</author>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>rospy</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>image_transport</build_depend>
+  <build_depend>rosbag</build_depend>
+
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>image_transport</exec_depend>
+  <exec_depend>rosbag</exec_depend>
+
+  <!-- 非 ROS 依赖在 README 里说明：ultralytics, torch, opencv-python 等 -->
+</package>
